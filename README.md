@@ -6,25 +6,27 @@ This are my „.vim”-files
 Install
 -------
 
-    $ cd ~
-    $ git clone https://github.com/thomasba/dotvim.git ~/.vim
-    $ cd ~/.vim
-	$ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+	$ git clone https://github.com/thomasba/dotvim.git ~/.vim
 	$ vim +PluginInstall +qall
 
 Update
 ------
 
-    $ git pull
+	$ git pull
 
 If there are new plugins open vim and run:
 
-    :PluginInstall
+	:PluginInstall
 
 Update plugins
 --------------
 
 Open vim and run:
 
-    :PluginUpdate
+	:PluginUpdate
 
+Videos
+------
+
+- [vim + tmux - OMG!Code (by Nick Nisi)](https://youtu.be/5r6yzFEXajQ)
+- [Learning Vim in a Week (by Mike Coutermarsh)](https://youtu.be/_NUO4JEtkDw)
