@@ -140,7 +140,7 @@ noremap <leader>p "+
 
 " Underline (Markdown Style)
 nnoremap <leader>= YpVr=
-nnoremap <leader>- YpVr
+nnoremap <leader>- YpVr-
 
 "let g:neocomplcache_enable_at_startup = 1 
 let g:indent_guides_auto_colors = 0 
