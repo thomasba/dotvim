@@ -6,13 +6,17 @@ This are my „.vim”-files
 Install
 -------
 
-	$ git clone https://github.com/thomasba/dotvim.git ~/.vim
-	$ vim +PluginInstall +qall
+```bash
+$ git clone https://github.com/thomasba/dotvim.git ~/.vim
+$ vim -nE +"colorscheme default" +PluginInstall +qall
+```
 
 Update
 ------
 
+```bash
 	$ git pull
+```
 
 If there are new plugins open vim and run:
 
