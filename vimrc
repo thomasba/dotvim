@@ -1,10 +1,4 @@
-set nocompatible              " be iMproved, required
-filetype off                  " required
-
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-source ~/.vim/plugins.vim
-call vundle#end()
+source ~/.vim/vundle.vim
 
 syntax on
 filetype plugin on
