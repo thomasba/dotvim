@@ -26,7 +26,7 @@ Plugin 'vim-scripts/JSON.vim'
 
 " Files
 Plugin 'scrooloose/nerdtree'
-Plugin 'jistr/vim-nerdtree-tabs'
+"Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'kien/ctrlp.vim'
 if executable('ag')
 	Plugin 'rking/ag.vim'
