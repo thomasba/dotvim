@@ -47,7 +47,6 @@ Plugin 'jeetsukumaran/vim-buffergator'
 Plugin 'ntpeters/vim-airline-colornum'
 Plugin 'tpope/vim-surround'
 Plugin 'vim-scripts/tComment'
-
-
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()
